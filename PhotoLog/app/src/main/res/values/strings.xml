@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+
+    <string-array name="names">
+    </string-array>
+
+    <string-array name="duedates">
+    </string-array>
+
+    <string name="title_activity_create_screen">createScreenActivity</string>
+
+
+</resources>
